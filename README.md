@@ -89,7 +89,7 @@ I'm an undergraduate IT student with a passion for building meaningful digital e
 I'm always happy to connect with fellow developers, researchers, and tech enthusiasts!
 
 - 📧 **Email:** your-email@example.com
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn:**
 - 🌐 **Portfolio:** [rajeevniumapathisivam.github.io/portfolio](https://rajeevniumapathisivam.github.io/portfolio)
 
 ---
