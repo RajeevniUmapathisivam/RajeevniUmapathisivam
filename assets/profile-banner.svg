@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Rajeevni Umapathisivam</title><desc id="desc">Web development, thoughtful interfaces, human-centered experiences.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c35"/><stop offset="1" stop-color="#163b49"/></linearGradient><linearGradient id="accent"><stop stop-color="#73ead2"/><stop offset="1" stop-color="#9baaff"/></linearGradient></defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<g fill="none" stroke="#83cabb" opacity=".12"><circle cx="1080" cy="165" r="210"/><circle cx="1080" cy="165" r="160"/><circle cx="1080" cy="165" r="110"/><path d="M850 0v320M930 0v320M1010 0v320M1090 0v320M1170 0v320M800 80h400M800 160h400M800 240h400"/></g>
+<rect x="62" y="63" width="44" height="5" rx="2.5" fill="url(#accent)"/>
+<g font-family="Segoe UI, Arial, sans-serif"><text x="62" y="109" fill="#9fe8d8" font-size="15" letter-spacing="3">DEVELOPMENT &amp; DESIGN</text><text x="60" y="171" fill="#ffffff" font-size="44" font-weight="700">Building with people in mind.</text><text x="62" y="213" fill="#cfdae6" font-size="20">Web development · Thoughtful interfaces · Human-centered experiences</text><text x="62" y="274" fill="#9baec3" font-size="15" letter-spacing="1">RAJEEVNI UMAPATHISIVAM</text></g>
+<g transform="translate(1000 105)" fill="none" stroke="url(#accent)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"><path d="m20 20-30 30 30 30M80 20l30 30-30 30M62 4 38 96"/></g>
+</svg>
