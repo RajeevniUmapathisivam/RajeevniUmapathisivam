@@ -1,103 +1,77 @@
-<div align="center">
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Web development, thoughtful interfaces, human-centered experiences" width="100%" />
+</p>
 
-# 👩‍💻 Rajeevni Umapathisivam
+<h1 align="center">Hi, I'm Rajeevni Umapathisivam</h1>
 
-**BSc (Hons) in Information Technology**  
-University of Vavuniya, Sri Lanka
+<p align="center">
+  <strong>IT undergraduate · Full-stack web development · UI/UX &amp; HCI</strong><br />
+  BSc (Hons) in Information Technology · University of Vavuniya, Sri Lanka
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeevniumapathisivam.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-## 🙋‍♀️ About Me
-
-I'm an undergraduate IT student with a passion for building meaningful digital experiences through clean code and thoughtful design. I'm particularly drawn to the intersection of **Human-Computer Interaction** and **web development** — where technology meets people.
-
-- 🎓 Pursuing **BSc (Hons) in Information Technology** at the **University of Vavuniya**
-- 🔭 Currently working on full-stack web projects and UI/UX design
-- 🌱 Actively learning **React**, **cloud deployment**, and **accessibility-first design**
-- 💡 Interested in HCI research, creative coding, and building user-centered applications
-- 🤝 Open to collaboration on open-source projects and research initiatives
+<p align="center">
+  <a href="https://rajeevniumapathisivam.github.io/portfolio/">View portfolio</a> &nbsp; / &nbsp;
+  <a href="#selected-projects">Explore projects</a> &nbsp; / &nbsp;
+  <a href="https://github.com/RajeevniUmapathisivam?tab=repositories">All repositories</a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About me
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I build web applications with a focus on clear interfaces and useful everyday experiences. As an IT undergraduate at the **University of Vavuniya**, I'm developing my skills across frontend development, backend systems, and user experience design.
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+I'm especially interested in **Human–Computer Interaction**: understanding how people use technology and bringing that understanding into the applications I build.
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+## Selected projects
 
----
+### [EduEnrollPro](https://github.com/RajeevniUmapathisivam/EduEnrollPro)
+**A course registration system for students and administrators.**
 
-## 📂 Featured Projects
+A full-stack application covering course enrollment, administrative approvals, dashboard analytics, and notifications, with separate frontend and backend applications.
 
-### 🌐 [Personal Portfolio Website](https://rajeevniumapathisivam.github.io/portfolio)
-> A responsive personal portfolio built with React, showcasing my projects, skills, and academic journey.
+`React` `JavaScript` `Node.js` `Express` `MongoDB` `JWT`
 
-- **Tech:** React, CSS3, GitHub Pages
-- **Highlights:** Mobile-first design, smooth navigation, project showcase
+[Explore the repository →](https://github.com/RajeevniUmapathisivam/EduEnrollPro)
 
-<!-- Add more projects below as you build them -->
-<!--
-### 🔧 [Project Name](link)
-> Short description of what this project does.
-- **Tech:** ...
-- **Highlights:** ...
--->
+### [Personal portfolio](https://github.com/RajeevniUmapathisivam/portfolio)
+**My projects, skills, and academic journey in one place.**
 
----
+A responsive portfolio built with React and CSS, published through GitHub Pages.
 
-## 📊 GitHub Stats
+`React` `JavaScript` `CSS` `GitHub Pages`
 
-<div align="center">
+[Visit the website →](https://rajeevniumapathisivam.github.io/portfolio/) &nbsp; · &nbsp; [View source →](https://github.com/RajeevniUmapathisivam/portfolio)
 
-![Rajeevni's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeevniumapathisivam&show_icons=true&theme=tokyonight&hide_border=true)
+### [Movie app](https://github.com/RajeevniUmapathisivam/Movie-app)
+**A movie application project built with TypeScript.**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevniumapathisivam&layout=compact&theme=tokyonight&hide_border=true)
+`TypeScript`
 
-</div>
+[Explore the repository →](https://github.com/RajeevniUmapathisivam/Movie-app)
 
----
+## Technologies & tools
 
-## 🎯 Currently Focusing On
+| Area | Technologies |
+| :--- | :--- |
+| Frontend | JavaScript, HTML, CSS, React |
+| Backend & data | Node.js, Express, MongoDB |
+| Programming | Python, TypeScript |
+| Design & workflow | Figma, Git, GitHub, VS Code |
 
-- 📖 Deepening my knowledge of **React** and component-driven architecture
-- ☁️ Exploring **cloud deployment** with platforms like Vercel and AWS
-- 🎨 Applying **UI/UX principles** and accessibility standards in real projects
-- 🔬 Researching topics in **Human-Computer Interaction** for academic work
+## Learning & interests
+
+- **Frontend development:** building reusable React components and improving application structure.
+- **Accessible interfaces:** applying UI/UX principles to make web experiences easier to use.
+- **Deployment:** exploring cloud platforms and web application delivery.
+- **HCI:** connecting academic research with practical, user-centered design.
+
+## Let's connect
+
+I'm open to collaborating on web applications, open-source projects, and HCI research initiatives.
+
+Explore my [portfolio](https://rajeevniumapathisivam.github.io/portfolio/) to learn more about my work, or browse my [repositories](https://github.com/RajeevniUmapathisivam?tab=repositories).
 
 ---
 
-## 📫 Get In Touch
-
-I'm always happy to connect with fellow developers, researchers, and tech enthusiasts!
-
-- 📧 **Email:** your-email@example.com
-- 💼 **LinkedIn:**
-- 🌐 **Portfolio:** [rajeevniumapathisivam.github.io/portfolio](https://rajeevniumapathisivam.github.io/portfolio)
-
----
-
-<div align="center">
-
-*"The best way to predict the future is to build it."*
-
-⭐️ Feel free to explore my repositories and don't hesitate to reach out!
-
-</div>
+<p align="center"><sub>Thoughtful interfaces. Practical applications. Continuous learning.</sub></p>
