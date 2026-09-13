@@ -1,77 +1,59 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Web development, thoughtful interfaces, human-centered experiences" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Rajeevni Umapathisivam</h1>
+<p align="center"><img src="assets/profile-banner.svg" alt="Rajeevni Umapathisivam — Building thoughtful digital experiences" width="100%" /></p>
 
 <p align="center">
-  <strong>IT undergraduate · Full-stack web development · UI/UX &amp; HCI</strong><br />
-  BSc (Hons) in Information Technology · University of Vavuniya, Sri Lanka
+<a href="https://rajeevniumapathisivam.github.io/portfolio/"><strong>PORTFOLIO ↗</strong></a> &nbsp; · &nbsp;
+<a href="#selected-projects"><strong>SELECTED WORK ↓</strong></a> &nbsp; · &nbsp;
+<a href="https://github.com/RajeevniUmapathisivam?tab=repositories"><strong>REPOSITORIES ↗</strong></a>
 </p>
 
-<p align="center">
-  <a href="https://rajeevniumapathisivam.github.io/portfolio/">View portfolio</a> &nbsp; / &nbsp;
-  <a href="#selected-projects">Explore projects</a> &nbsp; / &nbsp;
-  <a href="https://github.com/RajeevniUmapathisivam?tab=repositories">All repositories</a>
-</p>
+## A little about me
 
----
+I'm **Rajeevni**, an IT undergraduate at the **University of Vavuniya, Sri Lanka**, pursuing a BSc (Hons) in Information Technology. I build web applications and explore how thoughtful design can make technology easier to use.
 
-## About me
-
-I build web applications with a focus on clear interfaces and useful everyday experiences. As an IT undergraduate at the **University of Vavuniya**, I'm developing my skills across frontend development, backend systems, and user experience design.
-
-I'm especially interested in **Human–Computer Interaction**: understanding how people use technology and bringing that understanding into the applications I build.
+My work brings together **full-stack development**, **UI/UX**, and **Human–Computer Interaction**. I'm interested in the entire journey: understanding a problem, designing an interface, and connecting it to a working system.
 
 ## Selected projects
 
-### [EduEnrollPro](https://github.com/RajeevniUmapathisivam/EduEnrollPro)
-**A course registration system for students and administrators.**
+<table>
+<tr><td>
+<sub>01 / FULL-STACK APPLICATION</sub>
+<h3><a href="https://github.com/RajeevniUmapathisivam/EduEnrollPro">EduEnrollPro ↗</a></h3>
+<p>A course registration system connecting students and administrators through enrollment, approvals, analytics, and notifications.</p>
+<p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code></p>
+</td></tr>
+<tr><td>
+<sub>02 / WEB &amp; INTERFACE DESIGN</sub>
+<h3><a href="https://rajeevniumapathisivam.github.io/portfolio/">Personal portfolio ↗</a></h3>
+<p>A responsive home for my projects, skills, and academic journey, built with React and published through GitHub Pages.</p>
+<p><code>React</code> <code>JavaScript</code> <code>CSS</code> <code>GitHub Pages</code> &nbsp; <a href="https://github.com/RajeevniUmapathisivam/portfolio">View source →</a></p>
+</td></tr>
+<tr><td>
+<sub>03 / TYPESCRIPT PROJECT</sub>
+<h3><a href="https://github.com/RajeevniUmapathisivam/Movie-app">Movie app ↗</a></h3>
+<p>A movie application project built with TypeScript.</p>
+<p><code>TypeScript</code></p>
+</td></tr>
+</table>
 
-A full-stack application covering course enrollment, administrative approvals, dashboard analytics, and notifications, with separate frontend and backend applications.
+## My toolkit
 
-`React` `JavaScript` `Node.js` `Express` `MongoDB` `JWT`
+| Frontend | Backend & data | Design & workflow |
+| :--- | :--- | :--- |
+| React · JavaScript · TypeScript | Node.js · Express · MongoDB | Figma · Git · GitHub |
+| HTML · CSS | Python | VS Code · GitHub Pages |
 
-[Explore the repository →](https://github.com/RajeevniUmapathisivam/EduEnrollPro)
+## Exploring next
 
-### [Personal portfolio](https://github.com/RajeevniUmapathisivam/portfolio)
-**My projects, skills, and academic journey in one place.**
+**Reusable React components** · **Accessible interfaces** · **Cloud deployment** · **HCI research**
 
-A responsive portfolio built with React and CSS, published through GitHub Pages.
-
-`React` `JavaScript` `CSS` `GitHub Pages`
-
-[Visit the website →](https://rajeevniumapathisivam.github.io/portfolio/) &nbsp; · &nbsp; [View source →](https://github.com/RajeevniUmapathisivam/portfolio)
-
-### [Movie app](https://github.com/RajeevniUmapathisivam/Movie-app)
-**A movie application project built with TypeScript.**
-
-`TypeScript`
-
-[Explore the repository →](https://github.com/RajeevniUmapathisivam/Movie-app)
-
-## Technologies & tools
-
-| Area | Technologies |
-| :--- | :--- |
-| Frontend | JavaScript, HTML, CSS, React |
-| Backend & data | Node.js, Express, MongoDB |
-| Programming | Python, TypeScript |
-| Design & workflow | Figma, Git, GitHub, VS Code |
-
-## Learning & interests
-
-- **Frontend development:** building reusable React components and improving application structure.
-- **Accessible interfaces:** applying UI/UX principles to make web experiences easier to use.
-- **Deployment:** exploring cloud platforms and web application delivery.
-- **HCI:** connecting academic research with practical, user-centered design.
-
-## Let's connect
-
-I'm open to collaborating on web applications, open-source projects, and HCI research initiatives.
-
-Explore my [portfolio](https://rajeevniumapathisivam.github.io/portfolio/) to learn more about my work, or browse my [repositories](https://github.com/RajeevniUmapathisivam?tab=repositories).
+I'm strengthening my development foundations while applying user-centered design principles to practical projects.
 
 ---
+
+### Let's build something useful.
+
+I'm open to collaboration on web applications, open-source projects, and HCI research initiatives.
+
+**[Explore my portfolio ↗](https://rajeevniumapathisivam.github.io/portfolio/)**
 
 <p align="center"><sub>Thoughtful interfaces. Practical applications. Continuous learning.</sub></p>
