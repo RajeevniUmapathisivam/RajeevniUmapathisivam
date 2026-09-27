@@ -1,10 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">Rajeevni Umapathisivam — Full-stack web development</title>
-<desc id="desc">A navy banner with layered three-dimensional interface panels and an isometric cube.</desc>
+<desc id="desc">A navy banner with gently floating three-dimensional interface panels and a rocking isometric cube. Animation respects reduced-motion preferences.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#192b45"/></linearGradient>
 <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#355675"/><stop offset="1" stop-color="#16273e"/></linearGradient>
 <linearGradient id="top" x2="1" y2="1"><stop stop-color="#a6f2df"/><stop offset="1" stop-color="#58b8bf"/></linearGradient>
+<style>
+.panel-float { animation: panel-float 7s ease-in-out infinite; }
+.cube-float { transform-origin: 842px 224px; animation: cube-float 6s ease-in-out infinite; }
+.ground-shadow { transform-origin: 969px 271px; animation: shadow-breathe 7s ease-in-out infinite; }
+@keyframes panel-float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+@keyframes cube-float { 0%,100% { transform: translateY(0) rotate(-3deg); } 50% { transform: translateY(-16px) rotate(5deg); } }
+@keyframes shadow-breathe { 0%,100% { transform: scaleX(1); opacity: .5; } 50% { transform: scaleX(.88); opacity: .3; } }
+@media (prefers-reduced-motion: reduce) { .panel-float, .cube-float, .ground-shadow { animation: none; } }
+</style>
 </defs>
 <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
 <path d="M54 52H1146" stroke="#34445c"/>
@@ -16,7 +25,8 @@
 <text x="56" y="231" fill="#93a9c4" font-size="16">IT undergraduate · University of Vavuniya</text>
 <rect x="56" y="264" width="52" height="3" rx="1.5" fill="#87dfcf"/>
 </g>
-<ellipse cx="969" cy="271" rx="163" ry="20" fill="#050b15" opacity=".5"/>
+<ellipse class="ground-shadow" cx="969" cy="271" rx="163" ry="20" fill="#050b15" opacity=".5"/>
+<g class="panel-float">
 <g transform="translate(840 76) skewY(-8)">
 <rect x="25" y="28" width="245" height="160" rx="13" fill="#071220" stroke="#263c56"/>
 <rect x="13" y="14" width="245" height="160" rx="13" fill="#1c304a" stroke="#3e5974"/>
@@ -26,7 +36,10 @@
 <path d="M47 67L28 84L47 101M79 67L98 84L79 101M69 60L57 108" fill="none" stroke="#b2efdf" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M122 69H207M122 86H186M122 103H198M28 132H164" stroke="#829fb9" stroke-width="5" stroke-linecap="round" opacity=".7"/>
 </g>
+</g>
+<g class="cube-float">
 <path d="M805 202L842 181L879 202L842 224Z" fill="url(#top)"/>
 <path d="M805 202L842 224V266L805 244Z" fill="#438a99"/>
 <path d="M842 224L879 202V244L842 266Z" fill="#276375"/>
+</g>
 </svg>
