@@ -1,17 +1,17 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
 <title id="title">Rajeevni Umapathisivam — Full-stack web development</title>
-<desc id="desc">A navy banner with gently floating three-dimensional interface panels and a rocking isometric cube. Animation respects reduced-motion preferences.</desc>
+<desc id="desc">A navy banner with floating three-dimensional interface panels and a rocking isometric cube. Animation respects reduced-motion preferences.</desc>
 <defs>
 <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#192b45"/></linearGradient>
 <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#355675"/><stop offset="1" stop-color="#16273e"/></linearGradient>
 <linearGradient id="top" x2="1" y2="1"><stop stop-color="#a6f2df"/><stop offset="1" stop-color="#58b8bf"/></linearGradient>
 <style>
-.panel-float { animation: panel-float 7s ease-in-out infinite; }
-.cube-float { transform-origin: 842px 224px; animation: cube-float 6s ease-in-out infinite; }
-.ground-shadow { transform-origin: 969px 271px; animation: shadow-breathe 7s ease-in-out infinite; }
-@keyframes panel-float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
-@keyframes cube-float { 0%,100% { transform: translateY(0) rotate(-3deg); } 50% { transform: translateY(-16px) rotate(5deg); } }
-@keyframes shadow-breathe { 0%,100% { transform: scaleX(1); opacity: .5; } 50% { transform: scaleX(.88); opacity: .3; } }
+.panel-float { animation: panel-float 4s ease-in-out infinite; }
+.cube-float { transform-origin: 842px 224px; animation: cube-float 3.5s ease-in-out infinite; }
+.ground-shadow { transform-origin: 969px 271px; animation: shadow-breathe 4s ease-in-out infinite; }
+@keyframes panel-float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-24px); } }
+@keyframes cube-float { 0%,100% { transform: translateY(0) rotate(-8deg); } 50% { transform: translateY(-30px) rotate(12deg); } }
+@keyframes shadow-breathe { 0%,100% { transform: scaleX(1); opacity: .5; } 50% { transform: scaleX(.78); opacity: .25; } }
 @media (prefers-reduced-motion: reduce) { .panel-float, .cube-float, .ground-shadow { animation: none; } }
 </style>
 </defs>
