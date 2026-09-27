@@ -43,20 +43,22 @@ Full stack development, UI/UX, accessible interfaces, and user-centered web appl
 
 ## Education
 
-**BSc (Hons) in Information Technology**  
-University of Vavuniya, Sri Lanka · Final-year undergraduate  
-Started September 2023.
+**B.Sc. (Hons) in Information Technology**  
+Faculty of Applied Science, University of Vavuniya · 2023 – Present  
+*Selected for the IT Honours programme in 2026.*
 
 **G.C.E. Advanced Level — Physical Science** · 2021  
 Combined Mathematics, Physics, Chemistry.
 
 ## Certifications
 
-*To be updated: add certification name, issuing organization, completion date, and credential link.*
+- **JavaScript Essentials 1**
+- **Introduction to SQL** — Sololearn
 
 ## Competitions
 
-*To be updated: add competition name, organizer, year, your role, and verified result or participation details.*
+- **IEEEXtreme 18.0** — Participant, **SheSupports**. Placed among the **top 2 teams at the University of Vavuniya**.
+- **Hydra CTF 2026** — Participant, **SQUAD SYNTAX**.
 
 ## Let's connect
 
