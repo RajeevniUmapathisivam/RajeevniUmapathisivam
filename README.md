@@ -1,6 +1,8 @@
+![Rajeevni Umapathisivam — full-stack web development](assets/profile-banner.svg)
+
 # Rajeevni Umapathisivam
 
-**IT undergraduate · Full-stack web development · Human–Computer Interaction**
+**IT undergraduate · Full-stack web development**
 
 I'm pursuing a BSc (Hons) in Information Technology at the University of Vavuniya, Sri Lanka. I build web applications with React, Node.js, and Express, with an interest in usable interfaces and user-centered design.
 
@@ -36,6 +38,40 @@ A responsive website presenting my projects, technical skills, and education, wi
 
 ## Academic interests
 
-Human–Computer Interaction, UI/UX, accessible interfaces, and user-centered web application design.
+Full stack development, UI/UX, accessible interfaces, and user-centered web application design.
 
-<!-- Optional: Add a specific research topic or final-year project here once confirmed. Include your own contribution and a repository or report link if available. -->
+
+## Education
+
+**BSc (Hons) in Information Technology**  
+University of Vavuniya, Sri Lanka · Final-year undergraduate  
+Started September 2023.
+
+**G.C.E. Advanced Level — Physical Science** · 2021  
+Combined Mathematics, Physics, Chemistry.
+
+## Certifications
+
+*To be updated: add certification name, issuing organization, completion date, and credential link.*
+
+## Competitions
+
+*To be updated: add competition name, organizer, year, your role, and verified result or participation details.*
+
+## Let's connect
+
+I'm open to **internships and junior developer roles** in full-stack, frontend, and backend development — **remote or on-site in Sri Lanka**.
+
+Get in touch about an opportunity, an academic collaboration, or a project.
+
+| Channel | Details |
+| --- | --- |
+| Email | [urajeevni@gmail.com](mailto:urajeevni@gmail.com) |
+| Phone | +94 778 280 888 |
+| LinkedIn | [Rajeevni Umapathisivam](https://www.linkedin.com/in/rajeevni-umapathisivam) |
+| GitHub | [RajeevniUmapathisivam](https://github.com/RajeevniUmapathisivam) |
+| Location | Trincomalee, Sri Lanka |
+
+I welcome conversations about **full-stack development, React, REST APIs, database design, and user-centered interfaces**.
+
+[Visit my portfolio](https://rajeevniumapathisivam.github.io/portfolio/)
